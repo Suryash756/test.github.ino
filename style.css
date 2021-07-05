@@ -1,8 +1,8 @@
 body{
-    background-image: url("https://adoption.azureedge.net/wp-content/custom-backgrounds-gallery/user-submitted-background-56.jpg");
+    background-image: url("https://wallpapercave.com/wp/wp4752291.jpg");
     text-align: center;
     background-repeat: no-repeat ;
-    
+    background-size: cover;
 }
 
 h1{
@@ -36,8 +36,6 @@ h2{
     font-weight: bold;
     font-size: 40px;
     color: black;
-    border-bottom:solid;
-    border-color: black;
 }
 .line{
     height:8px;
